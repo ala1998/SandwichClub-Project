@@ -2,7 +2,7 @@
 My first project in Android Development _Nano-degree_
 
 ## Installation
-* You can download it as .zip file or ´clone´ it.
+* You can download it as .zip file or **clone** it.
 * if .zip, extract it
 * Open it using **Android Studio**
 
